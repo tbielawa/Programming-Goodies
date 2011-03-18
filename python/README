@@ -2,7 +2,7 @@ TailRecursionDecorator.py - Created by Crutcher Dunnavant
 Sun, 26 Feb 2006
 
 Retrieved from http://code.activestate.com/recipes/474088/
-Thu, 17, 2010
+Thu, 17, 2011
 
 Neat tidbit for optimized tail recursion in Python. Came up when Guido
 decreed that Python will never have continuations or optimized tail
